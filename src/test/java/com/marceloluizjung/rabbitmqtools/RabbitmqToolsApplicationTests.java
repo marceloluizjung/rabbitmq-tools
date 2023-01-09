@@ -1,10 +1,10 @@
-package com.rabbitmq.tools;
+package com.marceloluizjung.rabbitmqtools;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ToolsApplicationTests {
+class RabbitmqToolsApplicationTests {
 
 	@Test
 	void contextLoads() {
