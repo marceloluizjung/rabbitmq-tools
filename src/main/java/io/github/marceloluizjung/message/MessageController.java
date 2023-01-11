@@ -1,4 +1,4 @@
-package com.marceloluizjung.rabbitmqtools.message;
+package io.github.marceloluizjung.message;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
